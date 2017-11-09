@@ -1,0 +1,15 @@
+c:\users\c14-00.adds.004\documents\visual studio 2015\Projects\PokusBanka\PokusBanka\bin\Debug\PokusBanka.exe.config
+c:\users\c14-00.adds.004\documents\visual studio 2015\Projects\PokusBanka\PokusBanka\bin\Debug\PokusBanka.exe
+c:\users\c14-00.adds.004\documents\visual studio 2015\Projects\PokusBanka\PokusBanka\bin\Debug\PokusBanka.pdb
+c:\users\c14-00.adds.004\documents\visual studio 2015\Projects\PokusBanka\PokusBanka\obj\Debug\PokusBanka.csprojResolveAssemblyReference.cache
+c:\users\c14-00.adds.004\documents\visual studio 2015\Projects\PokusBanka\PokusBanka\obj\Debug\PokusBanka.exe
+c:\users\c14-00.adds.004\documents\visual studio 2015\Projects\PokusBanka\PokusBanka\obj\Debug\PokusBanka.pdb
+C:\Users\Jirka\Documents\Visual Studio 2015\Projects\PokusBanka\PokusBanka\bin\Debug\PokusBanka.exe.config
+C:\Users\Jirka\Documents\Visual Studio 2015\Projects\PokusBanka\PokusBanka\obj\Debug\PokusBanka.exe
+C:\Users\Jirka\Documents\Visual Studio 2015\Projects\PokusBanka\PokusBanka\obj\Debug\PokusBanka.pdb
+C:\Users\olga.korpacheva.ZETESCZ\Documents\PokusBanka\PokusBanka\bin\Debug\PokusBanka.exe.config
+C:\Users\olga.korpacheva.ZETESCZ\Documents\PokusBanka\PokusBanka\bin\Debug\PokusBanka.exe
+C:\Users\olga.korpacheva.ZETESCZ\Documents\PokusBanka\PokusBanka\bin\Debug\PokusBanka.pdb
+C:\Users\olga.korpacheva.ZETESCZ\Documents\PokusBanka\PokusBanka\obj\Debug\PokusBanka.csprojResolveAssemblyReference.cache
+C:\Users\olga.korpacheva.ZETESCZ\Documents\PokusBanka\PokusBanka\obj\Debug\PokusBanka.exe
+C:\Users\olga.korpacheva.ZETESCZ\Documents\PokusBanka\PokusBanka\obj\Debug\PokusBanka.pdb

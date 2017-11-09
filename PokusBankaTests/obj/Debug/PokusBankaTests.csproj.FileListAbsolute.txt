@@ -1,0 +1,18 @@
+c:\users\c14-00.adds.004\documents\visual studio 2015\Projects\PokusBanka\PokusBankaTests\bin\Debug\PokusBankaTests.dll
+c:\users\c14-00.adds.004\documents\visual studio 2015\Projects\PokusBanka\PokusBankaTests\bin\Debug\PokusBankaTests.pdb
+c:\users\c14-00.adds.004\documents\visual studio 2015\Projects\PokusBanka\PokusBankaTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\c14-00.adds.004\documents\visual studio 2015\Projects\PokusBanka\PokusBankaTests\bin\Debug\PokusBanka.exe
+c:\users\c14-00.adds.004\documents\visual studio 2015\Projects\PokusBanka\PokusBankaTests\bin\Debug\PokusBanka.pdb
+c:\users\c14-00.adds.004\documents\visual studio 2015\Projects\PokusBanka\PokusBankaTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\c14-00.adds.004\documents\visual studio 2015\Projects\PokusBanka\PokusBankaTests\obj\Debug\PokusBankaTests.csprojResolveAssemblyReference.cache
+c:\users\c14-00.adds.004\documents\visual studio 2015\Projects\PokusBanka\PokusBankaTests\obj\Debug\PokusBankaTests.dll
+c:\users\c14-00.adds.004\documents\visual studio 2015\Projects\PokusBanka\PokusBankaTests\obj\Debug\PokusBankaTests.pdb
+C:\Users\olga.korpacheva.ZETESCZ\Documents\PokusBanka\PokusBankaTests\bin\Debug\PokusBankaTests.dll
+C:\Users\olga.korpacheva.ZETESCZ\Documents\PokusBanka\PokusBankaTests\bin\Debug\PokusBankaTests.pdb
+C:\Users\olga.korpacheva.ZETESCZ\Documents\PokusBanka\PokusBankaTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\olga.korpacheva.ZETESCZ\Documents\PokusBanka\PokusBankaTests\bin\Debug\PokusBanka.exe
+C:\Users\olga.korpacheva.ZETESCZ\Documents\PokusBanka\PokusBankaTests\bin\Debug\PokusBanka.pdb
+C:\Users\olga.korpacheva.ZETESCZ\Documents\PokusBanka\PokusBankaTests\bin\Debug\PokusBanka.exe.config
+C:\Users\olga.korpacheva.ZETESCZ\Documents\PokusBanka\PokusBankaTests\obj\Debug\PokusBankaTests.csprojResolveAssemblyReference.cache
+C:\Users\olga.korpacheva.ZETESCZ\Documents\PokusBanka\PokusBankaTests\obj\Debug\PokusBankaTests.dll
+C:\Users\olga.korpacheva.ZETESCZ\Documents\PokusBanka\PokusBankaTests\obj\Debug\PokusBankaTests.pdb
